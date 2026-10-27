@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        body { background-color: #1877F2 }
+        label { color: #ffffff}
+        input {border-radius:100px; width:200px; height:20px}
+        button {border-radius:10px; width:90px; height:40px}
+        
+       </style>
+    </head>
+    <body>
+        
+       <h1><br><center><font color=#ffffff size=800px> f </font><center></h1>
+      
+        <br><br><br><br><br><br><br><br><br><br><br><center><input type= "text"><center>
+            
+        <br><center><label> USERNAME </label></center>
+        
+        <br><br><br><br><br><br><center><input type= "password"""></center>
+       <br><center><label> PASSWORD </label></center>
+      
+        <br><br><br><center><a href=".html"><button><font size=5ptx> LOGIN </font></button></a></center>
+        
+    </body>
+</html>
